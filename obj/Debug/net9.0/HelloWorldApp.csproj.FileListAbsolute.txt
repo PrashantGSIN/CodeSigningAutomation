@@ -1,0 +1,14 @@
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.exe
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.deps.json
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.runtimeconfig.json
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.dll
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\bin\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.AssemblyInfo.cs
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.dll
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\refint\HelloWorldApp.dll
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.pdb
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\HelloWorldApp.genruntimeconfig.cache
+C:\Users\Prashant Antil\OneDrive - GMO GlobalSign\Documents\CodeSIgningAutomationJenkins\HelloWorldApp\obj\Debug\net9.0\ref\HelloWorldApp.dll
